@@ -1,0 +1,103 @@
+# Игнорировать файлы и папки, специфичные для IDE
+.idea/
+*.iml
+
+# Игнорировать скомпилированные файлы Java
+*.class
+*.jar
+/out/
+/obj/
+
+# Игнорировать файлы Python, созданные интерпретатором
+__pycache__/
+*.pyc
+
+# Игнорировать файлы и папки, созданные другими инструментами и операционными системами
+*.rar
+*.zip
+*.docx
+*.suo
+*.user
+*.pbxuser
+*.DS_Store
+Nurnazarova.txt
+drawn_toys.txt
+
+# Игнорировать конкретные файлы и папки из вашего вывода
+../GB/GB_neuro_bot/.idea/
+../GB/GB_neuro_bot/__pycache__/
+../GB/GB_neuro_bot/object
+../GB/Java/Group/Controller.java
+../GB/Java/Group/Stream.java
+../GB/Java/Group/StreamService.java
+../GB/Java/Group/StudyGroup.java
+../GB/Java/JavaProject/GetRequest.java
+../GB/Java/JavaProject/Main.java
+../GB/Java/JavaProject/drawn_toys.txt
+../GB/Java/JavaProject2/
+../GB/Java/Java_Toy/
+../GB/Java/Market_project/
+../GB/Java/Product/
+../GB/Java/Program.java
+../GB/Java/Project_Java/
+../GB/Java/Refrictoring_3/
+../GB/Java/Students/
+../GB/Java/TeacherService/
+../GB/Java/UserData.rar
+../GB/Java/UserData/Nurnazarova.txt
+../GB/Java/project.zip
+../GB/Java/ГорячихНапитковАвтомат/
+../GB/Java/Знакомство я языком программирования/
+../GB/Java/Поиск ноутбуков/
+../GB/Project.docx
+../GB/Seminar_01/
+../GB/obj/
+../GB/Веб-технологии/
+../GB/Всё по гиту/
+../GB/Гибкие методологии/
+../GB/Команды в гит/
+../GB/Пайтон/Final work/
+../GB/Пайтон/Final work11/
+../GB/Пайтон/HomeWork/
+../GB/Пайтон/Lesson1/
+../GB/Пайтон/Practic/.idea/
+../GB/Пайтон/Practic/out/
+../GB/Пайтон/Practic/src/
+../GB/Пайтон/Practicum/.idea/
+../GB/Пайтон/Practicum/src/
+../GB/Пайтон/Python course/
+../GB/Пайтон/Seminar_01/
+../GB/Пайтон/first-application/
+../GB/Пайтон/firstProject/BooleanExample/
+../GB/Пайтон/firstProject/Exemple/
+../GB/Пайтон/firstProject/FallSevenTimes/
+../GB/Пайтон/firstProject/FallSvenTimesAndStandUp/
+../GB/Пайтон/firstProject/Lesson2Example/
+../GB/Пайтон/firstProject/Lesson5Example/
+../GB/Пайтон/firstProject/Summ/.idea/
+../GB/Пайтон/firstProject/Summ/out/
+../GB/Пайтон/firstProject/Summ/src/
+../GB/Пайтон/firstProject/cofe/
+Payton course.csproj
+Program.cs
+main.py
+obj/Payton course.csproj.nuget.dgspec.json
+obj/Payton course.csproj.nuget.g.props
+obj/Payton course.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+Python course/.folder
+Python course/Payton course.csproj
+Python course/Program.cs
+Python course/main.py
+Python course/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+Python course/obj/Debug/net8.0/Payton course.AssemblyInfo.cs
+Python course/obj/Debug/net8.0/Payton course.AssemblyInfoInputs.cache
+Python course/obj/Debug/net8.0/Payton course.GeneratedMSBuildEditorConfig.editorconfig
+Python course/obj/Debug/net8.0/Payton course.GlobalUsings.g.cs
+Python course/obj/Debug/net8.0/Payton course.assets.cache
+Python course/obj/Payton course.csproj.nuget.dgspec.json
+Python course/obj/Payton course.csproj.nuget.g.props
+Python course/obj/Payton course.csproj.nuget.g.targets
+Python course/obj/project.assets.json
+Python course/obj/project.nuget.cache
