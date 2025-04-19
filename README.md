@@ -65,6 +65,8 @@ public class Main {
         System.out.println("Взял заказ: " + human.isTakeOrder());
     }
 }
+
+
 Изменения по принципам SOLID
 1. Single Responsibility Principle (SRP)
 Каждый класс и интерфейс отвечает за свою конкретную задачу:
